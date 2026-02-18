@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writing a Good Research Paper
+title: Reflection
 ---
 
 # Reflection on My PhD Lessons  
